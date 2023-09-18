@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c727dd-c8f1-4f1b-afd2-6febcdd016d5" name="Changes" comment="" />
+    <list default="true" id="c3c727dd-c8f1-4f1b-afd2-6febcdd016d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CountingSheep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/CounterTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,14 +40,73 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/Rodrigo/IdeaProjects/Codewars/CountingSheep/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CounterTest.test1">
+    <configuration name="CounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CountingSheep" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CounterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CountingSheep" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CounterTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CountingSheep" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CounterTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CounterTest.test1" />
+        <item itemvalue="JUnit.CounterTest" />
+        <item itemvalue="JUnit.CounterTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,19 +115,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695037135436</updated>
-      <workItem from="1695037136480" duration="1000" />
+      <workItem from="1695037136480" duration="935000" />
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="e51dde">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/Counter.java" />
+                </list>
+              </option>
+              <option name="id" value="e51dde" />
+              <option name="initiateTms" value="1695037536677" />
+              <option name="request" value="&#10;class Counter {&#10;    public int countSheeps(Boolean[] arrayOfSheeps) {&#10;        int count = 0;&#10;        for (Boolean sheep : arrayOfSheeps) {&#10;            if (sheep != null &amp;&amp; sheep) {&#10;                count++;&#10;            }&#10;        }&#10;        return count;&#10;    }&#10;}&#10;&#10;comment this code explain whats is happening in each line" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Sure! Let's go through the code and explain what is happening in each line:&#10;&#10;```java&#10;class Counter {&#10;```&#10;This line declares a class named `Counter`.&#10;&#10;```java&#10;    public int countSheeps(Boolean[] arrayOfSheeps) {&#10;```&#10;This line declares a method named `countSheeps` that takes an array of `Boolean` values named `arrayOfSheeps` as a parameter. The method returns an integer value.&#10;&#10;```java&#10;        int count = 0;&#10;```&#10;This line declares an integer variable named `count` and initializes it with the value `0`. This variable will be used to keep track of the number of `true` values in the `arrayOfSheeps`.&#10;&#10;```java&#10;        for (Boolean sheep : arrayOfSheeps) {&#10;```&#10;This line starts a loop that iterates over each element in the `arrayOfSheeps`. The loop variable `sheep` represents each element in the array.&#10;&#10;```java&#10;            if (sheep != null &amp;&amp; sheep) {&#10;```&#10;This line checks if the current element `sheep` is not `null` and is `true`. If both conditions are true, the code inside the `if` statement will be executed.&#10;&#10;```java&#10;                count++;&#10;```&#10;This line increments the value of the `count` variable by `1`. This is done to keep track of the number of `true` values in the `arrayOfSheeps`.&#10;&#10;```java&#10;            }&#10;        }&#10;```&#10;This line marks the end of the `if` statement and the end of the loop.&#10;&#10;```java&#10;        return count;&#10;```&#10;This line returns the final value of the `count` variable, which represents the number of `true` values in the `arrayOfSheeps`.&#10;&#10;```java&#10;    }&#10;}&#10;```&#10;This line marks the end of the `countSheeps` method and the end of the `Counter` class.&#10;&#10;I hope this explanation helps you understand the code better. Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695037550340" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/Counter.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
